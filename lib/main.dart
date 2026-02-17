@@ -10,7 +10,7 @@ void main() {
         ),
         body: Center(
           child: Text(
-              "Building the App!",
+              "Building the App!!",
             style: TextStyle(
               fontSize: 20.0,
               fontWeight: FontWeight.w300,
